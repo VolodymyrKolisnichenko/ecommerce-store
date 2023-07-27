@@ -28,17 +28,17 @@ Deployment: <b>Vercel</b> <br>
 To run the project locally, follow these steps:
 
 <h3>Clone the repository:</h3>
-<img src="./src/clone.png" alt="clone"/>
+<img src="./src/clone.png" alt="clone"/> <br>
 
 <h3>Install dependencies:</h3>
-<img src="./src/dep.png" alt="dep"/>
+<img src="./src/dep.png" alt="dep"/><br>
 
 <h3>Set up environment variables:</h3>
-Create a .env file in the root directory and add the necessary environment variables, such as:
+Create a .env file in the root directory and add the necessary environment variables, such as: <br>
 <img src="./src/env.png" alt="env"/>
 
 <h3>Start the development server:</h3>
-<img src="./src/start.png" alt="start"/>
+<img src="./src/start.png" alt="start"/> <br>
 Open your web browser and navigate to http://localhost:3000 to see the app in action
 
 <h2>Contributing</h2>
