@@ -17,7 +17,7 @@ Check out the live demo of the Ecommerce Store: <span> <a href= https://ecommerc
 <b>Order History:</b> Keep track of previous orders and order statuses.
 
 <h2>Tech Stack</h2>
-The Ecommerce Store is built using the following <mark>technologies:</mark> <br>
+The Ecommerce Store is built using the following <sub>technologies:</sub> <br>
 
 Frontend: <b>HTML, CSS, Tailwind CSS, React.js, TypeScript, Next.js, Headless UI, PostCSS</b> <br>
 Backend: <b>Next.js, Stripe, Zustand, Axios, Recharts, Zod, Next Cloudinary, Next Themes</b> <br>
@@ -39,7 +39,7 @@ Create a .env file in the root directory and add the necessary environment varia
 
 <h3>Start the development server:</h3>
 <img src="./src/start.png" alt="start"/> <br>
-Open your web browser and navigate to http://localhost:3000 to see the app in action
+Open your web browser and navigate to http://localhost:3000 to see the app in action <br>
 
 <h2>Contributing</h2>
 I welcome contributions to improve the Ecommerce Store project. If you find any bugs, have feature requests, or want to contribute in any other way, please open an issue or submit a pull request.
