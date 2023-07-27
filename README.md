@@ -1,7 +1,7 @@
 <h1>Ecommerce Store</h1>
 Welcome to the Ecommerce Store project! This is an online shopping platform that allows users to browse and purchase various products from different categories.
 
-<img src="./src/store-2" alt="Ecommerce_Store_Screenshot"/>
+<img src="./src/store-2.png" alt="Ecommerce_Store_Screenshot"/>
 
 <h2>Live Demo</h2>
 Check out the live demo of the Ecommerce Store: <span> <a href= https://ecommerce-store-zeta-sable.vercel.app target="_blank"> Ecommerce Store Live Demo. <span>
@@ -30,14 +30,14 @@ To run the project locally, follow these steps:
 
 
 <h3>Install dependencies:</h3>
-<img src="./src/dep" alt="dep"/>
+<img src="./src/dep.png" alt="dep"/>
 
 Set up environment variables:
 Create a .env file in the root directory and add the necessary environment variables, such as:
-<img src="./src/env" alt="env"/>
+<img src="./src/env.png" alt="env"/>
 
 Start the development server:
-<img src="./src/start" alt="start"/>
+<img src="./src/start.png" alt="start"/>
 Open your web browser and navigate to http://localhost:3000 to see the app in action
 
 <h2>Contributing</h2>
