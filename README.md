@@ -17,26 +17,27 @@ Check out the live demo of the Ecommerce Store: <span> <a href= https://ecommerc
 <b>Order History:</b> Keep track of previous orders and order statuses.
 
 <h2>Tech Stack</h2>
-<h3>The Ecommerce Store is built using the following technologies:</h3> <br>
+The Ecommerce Store is built using the following <mark>technologies:</mark> <br>
 
 Frontend: <b>HTML, CSS, Tailwind CSS, React.js, TypeScript, Next.js, Headless UI, PostCSS</b> <br>
 Backend: <b>Next.js, Stripe, Zustand, Axios, Recharts, Zod, Next Cloudinary, Next Themes</b> <br>
 Database: <b>Prisma</b> <br>
 Deployment: <b>Vercel</b> <br>
-<h3>Getting Started </h3>
+
+<h2>Getting Started </h2>
 To run the project locally, follow these steps:
 
 <h3>Clone the repository:</h3>
-
+<img src="./src/clone.png" alt="clone"/>
 
 <h3>Install dependencies:</h3>
 <img src="./src/dep.png" alt="dep"/>
 
-Set up environment variables:
+<h3>Set up environment variables:</h3>
 Create a .env file in the root directory and add the necessary environment variables, such as:
 <img src="./src/env.png" alt="env"/>
 
-Start the development server:
+<h3>Start the development server:</h3>
 <img src="./src/start.png" alt="start"/>
 Open your web browser and navigate to http://localhost:3000 to see the app in action
 
