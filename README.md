@@ -1,5 +1,5 @@
 <h1>Ecommerce Store</h1>
-Welcome to the Ecommerce Store project! This is an online shopping platform that allows users to browse and purchase various products from different categories.
+<h4>Welcome to the Ecommerce Store project! This is an online shopping platform that allows users to browse and purchase various products from different categories.</h4>
 
 <img src="./src/store-2.png" alt="Ecommerce_Store_Screenshot"/>
 
@@ -7,17 +7,17 @@ Welcome to the Ecommerce Store project! This is an online shopping platform that
 Check out the live demo of the Ecommerce Store: <span> <a href= https://ecommerce-store-zeta-sable.vercel.app target="_blank"> Ecommerce Store Live Demo. <span>
 
 <h2>Features</h2>
-<b></b>Browse Categories: Explore a wide range of product categories available in the store.<br>
-<b></b>Product Search: Easily search for products using keywords.<br>
-<b></b>Product Details: View detailed information about each product, including images, descriptions, and prices.<br>
-<b></b>Add to Cart: Add desired products to the shopping cart for later purchase.<br>
-<b></b>Cart Management: Manage the items in your cart, update quantities, and remove products.<br>
-<b></b>Checkout: Seamlessly proceed to the checkout process and place your order.<br>
-<b></b>User Authentication: Create an account, log in, and securely manage your profile.<br>
-<b></b>Order History: Keep track of previous orders and order statuses.
+<b>Browse Categories:</b> Explore a wide range of product categories available in the store.<br>
+<b>Product Search:</b> Easily search for products using keywords.<br>
+<b>Product Details:</b> View detailed information about each product, including images, descriptions, and prices.<br>
+<b>Add to Cart:</b> Add desired products to the shopping cart for later purchase.<br>
+<b>Cart Management:</b> Manage the items in your cart, update quantities, and remove products.<br>
+<b>Checkout:</b> Seamlessly proceed to the checkout process and place your order.<br>
+<b>User Authentication:</b> Create an account, log in, and securely manage your profile.<br>
+<b>Order History:</b> Keep track of previous orders and order statuses.
 
 <h2>Tech Stack</h2>
-The Ecommerce Store is built using the following technologies:  <br>
+<h4>The Ecommerce Store is built using the following technologies:</h4> <br>
 
 Frontend: <b>HTML, CSS, Tailwind CSS, React.js, TypeScript, Next.js, Headless UI, PostCSS</b> <br>
 Backend: <b>Next.js, Stripe, Zustand, Axios, Recharts, Zod, Next Cloudinary, Next Themes</b> <br>
