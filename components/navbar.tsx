@@ -19,7 +19,6 @@ const Navbar = async () => {
           <NavbarActions />
         </div>
       </Container>
-      Navbar
     </div>
   );
 };
