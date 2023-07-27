@@ -1,5 +1,5 @@
 <h1>Ecommerce Store</h1>
-<h4>Welcome to the Ecommerce Store project! This is an online shopping platform that allows users to browse and purchase various products from different categories.</h4>
+<h3>Welcome to the Ecommerce Store project! This is an online shopping platform that allows users to browse and purchase various products from different categories.</h3>
 
 <img src="./src/store-2.png" alt="Ecommerce_Store_Screenshot"/>
 
@@ -17,7 +17,7 @@ Check out the live demo of the Ecommerce Store: <span> <a href= https://ecommerc
 <b>Order History:</b> Keep track of previous orders and order statuses.
 
 <h2>Tech Stack</h2>
-<h4>The Ecommerce Store is built using the following technologies:</h4> <br>
+<h3>The Ecommerce Store is built using the following technologies:</h3> <br>
 
 Frontend: <b>HTML, CSS, Tailwind CSS, React.js, TypeScript, Next.js, Headless UI, PostCSS</b> <br>
 Backend: <b>Next.js, Stripe, Zustand, Axios, Recharts, Zod, Next Cloudinary, Next Themes</b> <br>
