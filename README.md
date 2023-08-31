@@ -4,7 +4,7 @@
 <img src="./src/store-2.png" alt="Ecommerce_Store_Screenshot"/>
 
 <h2>Live Demo</h2>
-Check out the live demo of the Ecommerce Store: <span> <a href= https://ecommerce-store-zeta-sable.vercel.app target="_blank"> Ecommerce Store Live Demo. <span>
+Check out the live demo of the Ecommerce Store: <span> <a href= https://ecommerce-store-seven-pi.vercel.app/ target="_blank"> Ecommerce Store Live Demo. <span>
 
 <h2>Features</h2>
 <b>Browse Categories:</b> Explore a wide range of product categories available in the store.<br>
